@@ -2,7 +2,7 @@
 zhuq's osu! skins.
 
 # [boop genshin](https://download2389.mediafire.com/us0r5hek3lcg/i5hy9wuwgtqwhs9/boop+genshin.osk)
-![]()
+![](https://i.imgur.com/aqEoRII.jpg)
 
 # []()
 ![]()
