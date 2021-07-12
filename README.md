@@ -1,6 +1,9 @@
 # osu-skins
 zhuq's osu! skins.
 
+# [freddie benson](https://masterchefcanada.s-ul.eu/Y5N3gZxW)
+![](https://osu.ppy.sh/ss/14732977/6ed0)
+
 # [- ᚖBloo v1.1ᚖ -](https://drive.google.com/u/0/uc?id=1kbLQok-jyqG3KSzCmar_KY9kz2ti5JY2&export=download)
 ![](https://skins.osuck.net/uploads/posts/2020-04/1585900489_screenshot8339.jpg)
 
