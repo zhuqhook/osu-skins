@@ -1,5 +1,14 @@
 # osu-skins
-zhuq's osu! skins.
+zhuq's osu! skins. - OUTDATED
+
+# [#Emilia](http://download936.mediafire.com/32heiaxdf7cg/yeeav04w70y4yj6/%23Emilia.osk)
+![](https://skins.osuck.net/uploads/posts/2018-09/1537863433_5hdm0yi.jpg)
+
+# [- 《Oka》 Paraqeet boop 2.0](https://download2158.mediafire.com/v2xvucixvnjg/napojtl73tivkfw/-+++++++++%E3%80%8AOka%E3%80%8B+Paraqeet+boop+2.0.osk)
+![](https://i.imgur.com/HTJytwv.png)
+
+# [azer -ite](https://download1487.mediafire.com/toya21ikgppg/ztflhpi8b78o57a/azer+-ite.osk)
+![](https://skins.osuck.net/uploads/posts/2018-12/1545231072_screenshot1849.jpg)
 
 # [freddie benson](https://masterchefcanada.s-ul.eu/Y5N3gZxW)
 ![](https://osu.ppy.sh/ss/14732977/6ed0)
