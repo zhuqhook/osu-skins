@@ -1,7 +1,7 @@
 # osu-skins
 zhuq's osu! skins. - OUTDATED
 
-# [Current Skin - mathi (elohere)](https://gerwi2.s-ul.eu/ZzDqU9V9)
+# [mathi (elohere)](https://gerwi2.s-ul.eu/ZzDqU9V9)
 ![](https://i.imgur.com/HBVCEgJ.png)
 
 # [- Seoul v10](https://twitter.com/SeoulessOsu/status/1474508609102954499)
