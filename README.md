@@ -7,8 +7,17 @@ zhuq's osu! skins. - OUTDATED
 # [- Seoul v10](https://twitter.com/SeoulessOsu/status/1474508609102954499)
 ![](https://camo.githubusercontent.com/edce143915e890c3e8c0828d330ee142b57046103e05a1a789d189b395538a4a/68747470733a2f2f692e696d6775722e636f6d2f4f53344a724c7a2e6a7067)
 
+# [Arnold24x24](https://drive.google.com/file/d/15p4ozkaeOSiwfv8NXU-NR3s33J0pGBfo/view)
+![](https://i.ytimg.com/vi/fZlZJf9Ifys/maxresdefault.jpg)
+
+# [mrekk hddt](https://drive.google.com/uc?export=download&id=1hHzgI3DfKLLg6VxKYDPT3kYqXERDM96o)
+![](https://camo.githubusercontent.com/2aef5c6d88a817a6adfbb75eaa4caba3b8e9a449c3bcb19bbf217ba260c51366/68747470733a2f2f692e696d6775722e636f6d2f59554c697476782e706e67)
+
 # [-+ Seoul v9 Pineapple Color](https://shigeskln.s-ul.eu/aZMjYmod)
 ![](https://camo.githubusercontent.com/73201d244e4b98509c57e071326a3c4c427e6f8290b54f6c2a76fdee7d766a46/68747470733a2f2f692e696d6775722e636f6d2f57704c79504d6e2e706e67)
+
+# [Aristia+ edit](https://drive.google.com/file/d/1dVIq3CLLxVQkpvglgFAC2xl24-XzLm6R/view)
+![](https://camo.githubusercontent.com/6f4e90e68924f87d1a0056c6884ff7a54815ead6f685b13d418b71a5ca115f78/68747470733a2f2f6f73752e7070792e73682f73732f31363831363835302f34643863)
 
 # [#Emilia](http://download936.mediafire.com/32heiaxdf7cg/yeeav04w70y4yj6/%23Emilia.osk)
 ![](https://skins.osuck.net/uploads/posts/2018-09/1537863433_5hdm0yi.jpg)
@@ -16,14 +25,8 @@ zhuq's osu! skins. - OUTDATED
 # [- 《Oka》 Paraqeet boop 2.0](https://download2158.mediafire.com/v2xvucixvnjg/napojtl73tivkfw/-+++++++++%E3%80%8AOka%E3%80%8B+Paraqeet+boop+2.0.osk)
 ![](https://i.imgur.com/HTJytwv.png)
 
-# [azer -ite](https://download1487.mediafire.com/toya21ikgppg/ztflhpi8b78o57a/azer+-ite.osk)
-![](https://skins.osuck.net/uploads/posts/2018-12/1545231072_screenshot1849.jpg)
-
 # [freddie benson](https://masterchefcanada.s-ul.eu/Y5N3gZxW)
 ![](https://osu.ppy.sh/ss/14732977/6ed0)
-
-# [- ᚖBloo v1.1ᚖ -](https://drive.google.com/u/0/uc?id=1kbLQok-jyqG3KSzCmar_KY9kz2ti5JY2&export=download)
-![](https://skins.osuck.net/uploads/posts/2020-04/1585900489_screenshot8339.jpg)
 
 # [- # re;owoTuna v1.0-1.1 # -](https://drive.google.com/u/0/uc?id=1SVtUUvo4o2DUwQ1Pf2Xb0v4eDblvvovq&export=download)
 ![](https://skins.osuck.net/uploads/posts/2020-08/1596468449_screenshot9247.jpg)
@@ -36,9 +39,6 @@ zhuq's osu! skins. - OUTDATED
 
 # [boop genshin](https://download2389.mediafire.com/us0r5hek3lcg/i5hy9wuwgtqwhs9/boop+genshin.osk)
 ![](https://i.imgur.com/aqEoRII.jpg)
-
-# [Rafis HDDT 2018 Refreshed [RK]](https://mega.nz/folder/3JdUUZYR#c5jG8FrHxkEe4RtREZUlkg/file/vEsm3KCC)
-![](https://camo.githubusercontent.com/447e96b4601ef9689f9e3b8aa11532ec97327360bef9632414bc6aa834614833/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3639373934363938363831323237363738372f3835313534373435363931303931373633322f73637265656e73686f74323537342e6a7067)
 
 # [FREEDOM DiVE](https://download1229.mediafire.com/0p4o2zyzqimg/telzb3fcwl18l9p/%E2%8C%9EFreedom+Dive++%E2%86%93%E2%8C%9D.osk)
 ![](https://skins.osuck.net/uploads/posts/2021-05/1621342681_screenshot10455.jpg)
