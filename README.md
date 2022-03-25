@@ -11,7 +11,7 @@ zhuq's osu! skins. - OUTDATED
 ![](https://i.ytimg.com/vi/fZlZJf9Ifys/maxresdefault.jpg)
 
 # [Milkteaism Lunar v1.1 -ODDITY-](https://www.mediafire.com/file/h1i1tiy2e4g4wr9/Milkteaism+Lunar+v1.1+-ODDITY-.osk/file)
-![](https://i.ytimg.com/vi/6oHXNWcmIuA/maxresdefault.jpg)
+![](https://i.imgur.com/ETVVOKi.png)
 
 # [Milkteaism Ouma](https://www.mediafire.com/file/rdlok25h5te94lx/milkteaism_ouma.osk/file)
 ![](https://i.imgur.com/VUDozlv.png)
