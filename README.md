@@ -1,6 +1,9 @@
 # osu-skins
 zhuq's osu! skins. - OUTDATED
 
+# [Current Skin - mathi (elohere)](https://gerwi2.s-ul.eu/ZzDqU9V9)
+![](https://i.imgur.com/HBVCEgJ.png)
+
 # [#Emilia](http://download936.mediafire.com/32heiaxdf7cg/yeeav04w70y4yj6/%23Emilia.osk)
 ![](https://skins.osuck.net/uploads/posts/2018-09/1537863433_5hdm0yi.jpg)
 
