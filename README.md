@@ -16,6 +16,9 @@ zhuq's osu! skins. - OUTDATED
 # [Milkteaism Ouma](https://www.mediafire.com/file/rdlok25h5te94lx/milkteaism_ouma.osk/file)
 ![](https://i.imgur.com/VUDozlv.png)
 
+# [sugoi v5](https://drive.google.com/file/d/19UZYuJWt2MTxMxl6QeoBwd4GJBYxaVVw/view?usp=drivesdk)
+![](https://i.imgur.com/Gq6DfEN.png)
+
 # [mrekk hddt](https://drive.google.com/uc?export=download&id=1hHzgI3DfKLLg6VxKYDPT3kYqXERDM96o)
 ![](https://camo.githubusercontent.com/2aef5c6d88a817a6adfbb75eaa4caba3b8e9a449c3bcb19bbf217ba260c51366/68747470733a2f2f692e696d6775722e636f6d2f59554c697476782e706e67)
 
