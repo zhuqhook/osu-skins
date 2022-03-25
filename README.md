@@ -1,5 +1,5 @@
-# osu-skins
-zhuq's osu! skins. - OUTDATED
+# zhuq-osu-skins
+zhuq's osu! skins. - last updated 3/25/2022, i don't really bother with this
 
 # [mathi (elohere)](https://gerwi2.s-ul.eu/ZzDqU9V9)
 ![](https://i.imgur.com/HBVCEgJ.png)
