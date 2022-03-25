@@ -4,6 +4,12 @@ zhuq's osu! skins. - OUTDATED
 # [Current Skin - mathi (elohere)](https://gerwi2.s-ul.eu/ZzDqU9V9)
 ![](https://i.imgur.com/HBVCEgJ.png)
 
+# [- Seoul v10](https://twitter.com/SeoulessOsu/status/1474508609102954499)
+![](https://camo.githubusercontent.com/edce143915e890c3e8c0828d330ee142b57046103e05a1a789d189b395538a4a/68747470733a2f2f692e696d6775722e636f6d2f4f53344a724c7a2e6a7067)
+
+# [-+ Seoul v9 Pineapple Color](https://shigeskln.s-ul.eu/aZMjYmod)
+![](https://camo.githubusercontent.com/73201d244e4b98509c57e071326a3c4c427e6f8290b54f6c2a76fdee7d766a46/68747470733a2f2f692e696d6775722e636f6d2f57704c79504d6e2e706e67)
+
 # [#Emilia](http://download936.mediafire.com/32heiaxdf7cg/yeeav04w70y4yj6/%23Emilia.osk)
 ![](https://skins.osuck.net/uploads/posts/2018-09/1537863433_5hdm0yi.jpg)
 
