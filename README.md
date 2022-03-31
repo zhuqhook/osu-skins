@@ -28,9 +28,6 @@ zhuq's osu! skins. - last updated 3/25/2022, i don't really bother with this
 # [-+ Seoul v9 Pineapple Color](https://shigeskln.s-ul.eu/aZMjYmod)
 ![](https://camo.githubusercontent.com/73201d244e4b98509c57e071326a3c4c427e6f8290b54f6c2a76fdee7d766a46/68747470733a2f2f692e696d6775722e636f6d2f57704c79504d6e2e706e67)
 
-# [Milkteaism - OLD](https://mega.nz/file/wC4w1RBY#8lGg_BDPDS72xm-m6Ago8qyw4NU_nW62nZolUgYH8R8)
-![](https://mega.nz/file/wC4w1RBY#8lGg_BDPDS72xm-m6Ago8qyw4NU_nW62nZolUgYH8R8)
-
 # [Aristia+ edit](https://drive.google.com/file/d/1dVIq3CLLxVQkpvglgFAC2xl24-XzLm6R/view)
 ![](https://camo.githubusercontent.com/6f4e90e68924f87d1a0056c6884ff7a54815ead6f685b13d418b71a5ca115f78/68747470733a2f2f6f73752e7070792e73682f73732f31363831363835302f34643863)
 
