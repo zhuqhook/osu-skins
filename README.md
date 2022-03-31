@@ -40,9 +40,6 @@ zhuq's osu! skins. - last updated 3/25/2022, i don't really bother with this
 # [Merami](https://gerwi2.s-ul.eu/v4G9jyf1)
 ![](https://i.imgur.com/ok02kRn.png)
 
-# [- 《Oka》 Paraqeet boop 2.0](https://download2158.mediafire.com/v2xvucixvnjg/napojtl73tivkfw/-+++++++++%E3%80%8AOka%E3%80%8B+Paraqeet+boop+2.0.osk)
-![](https://i.imgur.com/HTJytwv.png)
-
 # [freddie benson](https://masterchefcanada.s-ul.eu/Y5N3gZxW)
 ![](https://osu.ppy.sh/ss/14732977/6ed0)
 
