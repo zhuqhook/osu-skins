@@ -1,8 +1,8 @@
 # zhuq-osu-skins
 zhuq's osu! skins. - last updated 3/25/2022, i don't really bother with this
 
-# [ekoro]()
-![]()
+# [ekoro](https://kaia.s-ul.eu/XYdtIOf3.osk)
+![](https://i.imgur.com/cb5XWAi.png)
 
 # [Arnold24x24](https://drive.google.com/file/d/15p4ozkaeOSiwfv8NXU-NR3s33J0pGBfo/view)
 ![](https://i.ytimg.com/vi/fZlZJf9Ifys/maxresdefault.jpg)
@@ -16,8 +16,8 @@ zhuq's osu! skins. - last updated 3/25/2022, i don't really bother with this
 # [Milkteaism Lunar v1.1 -ODDITY-](https://www.mediafire.com/file/h1i1tiy2e4g4wr9/Milkteaism+Lunar+v1.1+-ODDITY-.osk/file)
 ![](https://i.imgur.com/ETVVOKi.png)
 
-# [Varv]()
-![]()
+# [Varv](https://www.dropbox.com/s/48dcytp0ed32tyu/Varv.osk?dl=0)
+![](https://camo.githubusercontent.com/71077b8d470d1573061276aa3f1a150cf0685600006e14ca96d5ba9d5a518cdf/68747470733a2f2f6f73752e7070792e73682f73732f31373539393732312f34353236)
 
 # [- # re;owoTuna v1.0-1.1 # -](https://drive.google.com/u/0/uc?id=1SVtUUvo4o2DUwQ1Pf2Xb0v4eDblvvovq&export=download)
 ![](https://i.imgur.com/f0kGQpB.png)
