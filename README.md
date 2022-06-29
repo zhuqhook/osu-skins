@@ -2,7 +2,7 @@
 zhuq's osu! skins. - last updated 3/25/2022, i don't really bother with this
 
 # [Vaxei](https://drive.google.com/file/d/1JRDbxtEVFYMgt9ls4rvIRs2v0IfBddFO/view)
-![](https://imgur.com/RmAkbBS)
+![](https://i.imgur.com/RmAkbBS)
 
 # [Mathi (elohere)](https://gerwi2.s-ul.eu/ZzDqU9V9)
 ![](https://i.imgur.com/HBVCEgJ.png)
