@@ -1,8 +1,8 @@
 # zhuq-osu-skins
 zhuq's osu! skins. - last updated 3/25/2022, i don't really bother with this
 
-# [Vaxei](https://drive.google.com/file/d/11LPfXXKhdPbQd-Cwc3uVfeRve-YOIvkn/view)
-![](https://camo.githubusercontent.com/32a442dd89221e66f2cde86a5f339361c9b9a2a605f906b206b5d6113bd4d402/68747470733a2f2f6f73752e7070792e73682f73732f31353539343334382f65386263)
+# [Vaxei](https://drive.google.com/file/d/1JRDbxtEVFYMgt9ls4rvIRs2v0IfBddFO/view)
+![](https://skins.osuck.net/uploads/posts/2021-02/1614321858_screenshot9400.jpg)
 
 # [Mathi (elohere)](https://gerwi2.s-ul.eu/ZzDqU9V9)
 ![](https://i.imgur.com/HBVCEgJ.png)
@@ -19,17 +19,11 @@ zhuq's osu! skins. - last updated 3/25/2022, i don't really bother with this
 # [Milkteaism Ouma](https://www.mediafire.com/file/rdlok25h5te94lx/milkteaism_ouma.osk/file)
 ![](https://i.imgur.com/VUDozlv.png)
 
-# [Aristia+ edit](https://drive.google.com/file/d/1dVIq3CLLxVQkpvglgFAC2xl24-XzLm6R/view)
-![](https://camo.githubusercontent.com/6f4e90e68924f87d1a0056c6884ff7a54815ead6f685b13d418b71a5ca115f78/68747470733a2f2f6f73752e7070792e73682f73732f31363831363835302f34643863)
-
-# [Merami](https://mega.nz/#!RPQygYIR!VEAcwbvau1DVzzRW3kArIkaH_gxXWFYwVzE5hK-Fkuo)
-![](https://i.imgur.com/koYJmag.png)
+# [Merami](https://mega.nz/file/gaJW0YDK#dN_bjoQTm8VA68kec9rsaEtzo7isMkfxpbJi1b-h2tg)
+![](https://i.imgur.com/etIPMAN.png)
 
 # [#Emilia](http://download936.mediafire.com/32heiaxdf7cg/yeeav04w70y4yj6/%23Emilia.osk)
 ![](https://skins.osuck.net/uploads/posts/2018-09/1537863433_5hdm0yi.jpg)
-
-# [Merami](https://gerwi2.s-ul.eu/v4G9jyf1)
-![](https://i.imgur.com/ok02kRn.png)
 
 # [- # re;owoTuna v1.0-1.1 # -](https://drive.google.com/u/0/uc?id=1SVtUUvo4o2DUwQ1Pf2Xb0v4eDblvvovq&export=download)
 ![](https://skins.osuck.net/uploads/posts/2020-08/1596468449_screenshot9247.jpg)
