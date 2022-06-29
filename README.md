@@ -1,5 +1,5 @@
-# zhuq-osu-skins
-zhuq's osu! skins. - last updated 3/25/2022, i don't really bother with this
+# zhuqing-osu-skins
+zhuqing's osu! skins. - last updated 6/29/2022, i don't really bother with this
 
 # [ekoro](https://kaia.s-ul.eu/XYdtIOf3.osk)
 ![](https://i.imgur.com/cb5XWAi.png)
