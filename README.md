@@ -1,6 +1,9 @@
 # zhuq-osu-skins
 zhuq's osu! skins. - last updated 3/25/2022, i don't really bother with this
 
+# [shimon](https://drive.google.com/file/d/1merhrh2MPn2rd-4dQQFpLyRB8l_jYv6K/view)
+![](https://pbs.twimg.com/ext_tw_video_thumb/1539804176473276416/pu/img/Qf6FeXygjHBBt6w3?format=jpg&name=large)
+
 # [Vaxei](https://drive.google.com/file/d/1JRDbxtEVFYMgt9ls4rvIRs2v0IfBddFO/view)
 ![](https://i.imgur.com/RmAkbBS.png)
 
@@ -26,7 +29,7 @@ zhuq's osu! skins. - last updated 3/25/2022, i don't really bother with this
 ![](https://skins.osuck.net/uploads/posts/2018-09/1537863433_5hdm0yi.jpg)
 
 # [- # re;owoTuna v1.0-1.1 # -](https://drive.google.com/u/0/uc?id=1SVtUUvo4o2DUwQ1Pf2Xb0v4eDblvvovq&export=download)
-![](https://skins.osuck.net/uploads/posts/2020-08/1596468449_screenshot9247.jpg)
+![](https://i.imgur.com/f0kGQpB.png)
 
 # [-+ Seoul v9 Personal Skin Kirby](https://shigeskinss.s-ul.eu/gEfiNoTv)
 ![](https://camo.githubusercontent.com/647870cda2452d9bc74541c0a6c1fa5e5cd3dda01bc75036ba5516a139af1aab/68747470733a2f2f692e696d6775722e636f6d2f4344366d7657542e706e67)
